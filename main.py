@@ -2,7 +2,7 @@ from datetime import datetime
 import time
 import requests
 
-API_KEY = "ffedc415bdcc4686afee119fcfacf9ad"
+API_KEY = "API_KEY"
 BASE_URL = "https://api.football-data.org/v4"
 HEADERS = {"X-Auth-Token": API_KEY}
 
