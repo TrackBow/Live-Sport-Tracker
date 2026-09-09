@@ -13,9 +13,3 @@ Application de suivi de scores et de calendriers sportifs développée en Python
 - Python 3.10 ou supérieur
 - Une clé d'API gratuite sur [football-data.org](https://www.football-data.org/)
 
-## Installation
-
-1. Cloner le dépôt :
-   ```bash
-   git clone [https://github.com/TrackBow/Live-Sport-Tracker.git](https://github.com/TrackBow/Live-Sport-Tracker.git)
-   cd Live-Sport-Tracker
