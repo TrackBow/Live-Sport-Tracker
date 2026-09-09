@@ -4,7 +4,7 @@ import requests
 import streamlit as st
 from streamlit_autorefresh import st_autorefresh
 
-API_KEY = "API_KEY"
+API_KEY = st.secrets["FOOTBALL_API_KEY"]
 BASE_URL = "https://api.football-data.org/v4"
 HEADERS = {"X-Auth-Token": API_KEY}
 
